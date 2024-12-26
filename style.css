@@ -1,0 +1,44 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    }
+    /* Header Styles */
+    header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+        }
+        nav ul li {
+        display: inline;
+        margin-right: 15px;
+        }
+        nav ul li a {
+        color: white;
+        text-decoration: none;
+        }
+        /* Section Styles */
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            }
+            h2 {
+            color: #333;
+            }
+            /* Footer Styles */
+            footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            }
